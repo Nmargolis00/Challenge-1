@@ -23,7 +23,7 @@ body {
 .header h1 .seo {
     color: #d9dcd6;
 }
-
+/* changed div to nav to link classes to HTML */
 .header nav {
     padding-top: 15px;
     margin-right: 20px;
@@ -128,6 +128,7 @@ p {
     font-size: 36px;
 }
 
+/*Created one class, for ease of use and if additional content is needed to be added to the site*/
 
 .footer {
     padding: 30px;
@@ -135,7 +136,7 @@ p {
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     text-align: center;
 }
-
+/* Changed to h4 to match HTML*/
 .footer h4 {
     font-size: 20px;
 }
