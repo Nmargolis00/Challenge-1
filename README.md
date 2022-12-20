@@ -18,9 +18,12 @@ N/A
 
 Copy and past this URL: https://nmargolis00.github.io/challenge-1/
 
-## Usage
+## Image
 
-N/A
+![Website Screen Shots](assets/Challenge-1-img-1.png)
+![Website Screen Shots](assets/Challenge-1-img-2.png)
+![Website Screen Shots](assets/Challenge-1-img-3.png)
+
 
 ## Credits
 
@@ -28,7 +31,7 @@ N/A
 
 ## License
 
-N/A
+MIT License
 
 ## Badges
 
