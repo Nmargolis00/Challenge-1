@@ -87,6 +87,8 @@ p {
 
 
 /* Is it best practice to make this all one class? Or separate via comma */
+
+
 .benefit-lead, .benefit-brand, .benefit-cost {
     margin-bottom: 32px;
     color: #ffffff;
@@ -105,6 +107,9 @@ p {
     max-width: 150px;
 }
 
+
+
+
 .search-engine-optimization, .online-reputation-management, .social-media-marketing {
     margin-bottom: 20px;
     padding: 50px;
@@ -113,6 +118,7 @@ p {
     background-color: #0072bb;
     color: #ffffff;
 }
+
 
 /* Can these not be combined? */
 .search-engine-optimization img, .online-reputation-management img, .social-media-marketing img {
